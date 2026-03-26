@@ -1,40 +1,40 @@
 # 🔥 Barcode Generator Web App
 
-A simple and powerful web app to generate barcodes using Python and Streamlit.
+A powerful and user-friendly web application to generate barcodes instantly using Python and Streamlit.
+
+This tool allows users to create both Code128 (text-based) and EAN-13 (numeric) barcodes with real-time preview and download functionality.
 
 ---
 
-## 🚀 Features
-- Generate Code128 barcodes (for text)
-- Generate EAN-13 barcodes (12 digit numbers)
-- Download barcode as PNG
-- Clean and simple UI
+## 🌐 Live Demo
+🚀 Coming Soon...
 
 ---
 
-## 📸 Preview
-![demo](https://github.com/user-attachments/assets/28ea7213-b1b6-4c7f-992c-364b340ef358)
+## ✨ Features
 
-
----
-
-## 🎥 Demo
-![demo](https://github.com/user-attachments/assets/f881845e-a32d-49db-909a-207f7ceeb06a)
-
-
----
+- 🔤 Generate Code128 barcodes (supports text & alphanumeric)
+- 🔢 Generate EAN-13 barcodes (12-digit numeric input)
+- 🖼️ Instant barcode preview
+- 📥 Download barcode as PNG
+- ⚡ Fast and lightweight UI
+- 🎯 Beginner-friendly and easy to use
 
 ## 🛠️ Tech Stack
-- Python
-- Streamlit
-- python-barcode
-- Pillow
+
+- 🐍 Python  
+- 🎨 Streamlit  
+- 📦 python-barcode  
+- 🖼️ Pillow  
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
-Clone the repository:
+### 1️⃣ Clone the Repository
 `bash
-git clone 
+git clone https://github.com/prachi-nayak18/barcode-generator
 cd barcode-generator
+
+## 🙌 Author
+- Prachi Nayak
